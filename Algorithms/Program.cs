@@ -22,8 +22,7 @@ namespace Algorithms
             {
                 x++;
             }
-
-
+            
             //5. Кубический (N3) В программах, которые соответствуют этому алгоритму, используются три цикла.
             char[] chars = new char[] { 'A', 'B', 'C' };
             for (int i = 0; i < chars.Length; i++)
